@@ -1,0 +1,6 @@
+{
+  "name": "Proker KKNKI Batch 1",
+  "description": "Platform website desa modern, cepat, dan profesional untuk pelayanan publik dan administrasi desa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
